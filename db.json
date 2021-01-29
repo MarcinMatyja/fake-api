@@ -1,0 +1,11 @@
+{
+  "Offer": {
+    "marka": "string",
+    "model": "string",
+    "rokProdukcji": "date",
+    "przebieg": "int",
+    "paliwo": "string",
+    "url": "string",
+    "dostepny": "boolean",
+    "najmniejszaRata": "int"
+  }
