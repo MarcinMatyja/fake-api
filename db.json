@@ -1,5 +1,6 @@
 {
-   "offer":{
+   "offer":[
+   {
     "id": "1",
     "marka": "fiat",
     "model": "500",
@@ -32,4 +33,5 @@
     "dostepny": "true",
     "najmniejszaRata": "899,64"
   }
+      ]
 }
