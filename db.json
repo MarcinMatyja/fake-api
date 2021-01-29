@@ -1,12 +1,13 @@
 {
-  "Offer": {
-    "marka": "string",
-    "model": "string",
-    "rokProdukcji": "date",
-    "przebieg": "int",
-    "paliwo": "string",
-    "url": "string",
-    "dostepny": "boolean",
-    "najmniejszaRata": "int"
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
