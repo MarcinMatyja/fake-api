@@ -1,13 +1,13 @@
 {
   "Offer": {
-    "id": "int",
-    "marka": "string",
-    "model": "string",
-    "rokProdukcji": "date",
-    "przebieg": "int",
-    "paliwo": "string",
+    "id": "1",
+    "marka": "fiat",
+    "model": "500",
+    "rokProdukcji": "2019",
+    "przebieg": "1",
+    "paliwo": "Beznyna",
     "url": "string",
-    "dostepny": "boolean",
-    "najmniejszaRata": "int"
+    "dostepny": "true",
+    "najmniejszaRata": "899,64"
   }
 }
