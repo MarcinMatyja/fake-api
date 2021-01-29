@@ -1,6 +1,5 @@
 {
   "Offer": {
-    "xd":"int",
     "id": "int",
     "marka": "string",
     "model": "string",
