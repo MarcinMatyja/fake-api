@@ -8,6 +8,30 @@
     "paliwo": "Beznyna",
     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3Q-cuFJTFYT-ZXVHebyQaRbyM3KaRYTN5A&usqp=CAU",
     "dostepny": "true",
+    "najmniejszaRata": "899,64" 
+  }
+  {
+    "id": "2",
+    "marka": "fiat",
+    "model": "500",
+    "rokProdukcji": "2019",
+    "przebieg": "1",
+    "paliwo": "Beznyna",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3Q-cuFJTFYT-ZXVHebyQaRbyM3KaRYTN5A&usqp=CAU",
+    "dostepny": "true",
     "najmniejszaRata": "899,64"
+    
+  }
+{
+    "id": "3",
+    "marka": "fiat",
+    "model": "500",
+    "rokProdukcji": "2019",
+    "przebieg": "1",
+    "paliwo": "Beznyna",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3Q-cuFJTFYT-ZXVHebyQaRbyM3KaRYTN5A&usqp=CAU",
+    "dostepny": "true",
+    "najmniejszaRata": "899,64"
+    
   }
 }
