@@ -1,4 +1,4 @@
-[
+{
    {
     "id": "1",
     "marka": "fiat",
@@ -32,4 +32,4 @@
     "dostepny": "true",
     "najmniejszaRata": "899,64"
   }
-]
+}
