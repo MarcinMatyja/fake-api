@@ -1,5 +1,5 @@
-{
-  "Post": {
+
+    "Post": {
     "title": "string",
     "views": "int",
     "published": "boolean",
@@ -10,4 +10,3 @@
     "body": "string",
     "post": "Post"
   }
-}
