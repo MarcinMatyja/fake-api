@@ -1,4 +1,5 @@
-[
+{
+   "offer":[
    {
     "id": "1",
     "marka": "fiat",
@@ -33,3 +34,4 @@
     "najmniejszaRata": "899,64"
    }
 ]
+}
