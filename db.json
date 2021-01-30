@@ -23,30 +23,6 @@
     "dostepny": "true",
     "najmniejszaRata": "899,64",
      "skrzyniaBiegow": "Manualna"
-  },
-{
-    "id": "3",
-    "marka": "ford",
-    "model": "fiesta",
-    "rokProdukcji": "2019",
-    "przebieg": "1",
-    "paliwo": "Beznyna",
-    "url": "https://premiummoto.pl/wp-content/uploads/2018/05/nowa-fiesta-st-test-opinia-dane-1-e1528633863414.jpg?x43657",
-    "dostepny": "true",
-    "najmniejszaRata": "814.03",
-     "skrzyniaBiegow": "Manualna"
-   },
-{
-    "id": "4",
-    "marka": "Skoda",
-    "model": "Octavia 1.6 TDI Active",
-    "rokProdukcji": "2019",
-    "przebieg": "1",
-    "paliwo": "Beznyna",
-    "url": "https://img.chceauto.pl/skoda/octavia/skoda-octavia-kombi-3506-32786_head.jpg",
-    "dostepny": "true",
-    "najmniejszaRata": "863.00",
-     "skrzyniaBiegow": "Automatyczna"
-   }
+  }
 ]
 }
