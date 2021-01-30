@@ -33,7 +33,7 @@
     "paliwo": "Beznyna",
     "url": "https://www.wyborkierowcow.pl/wp-content/uploads/2018/07/SKODA-Octavia.jpg",
     "dostepny": "true",
-    "najmniejszaRata": "1299,64",
+    "najmniejszaRata": "1299,00",
      "skrzyniaBiegow": "Automatyczna"
   },
   {
@@ -45,7 +45,7 @@
     "paliwo": "Beznyna",
     "url": "https://lh3.googleusercontent.com/proxy/5MmVf3-Wbp15qWBWjqhyZfT1O90HHNH137JL9n7tF-2g1OzToKHYCQ70Z_V-6c61EaZUhpZOmcPv-vsP2aBbWuxSjyw9OOiYU0dFgXvP-3ZWbu1cxigclyUD",
     "dostepny": "true",
-    "najmniejszaRata": "1499,64",
+    "najmniejszaRata": "1499,30",
      "skrzyniaBiegow": "Automatyczna"
   },
   {
@@ -57,55 +57,55 @@
     "paliwo": "Diesel",
     "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZqNGV3b2g2ajQzMDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.f-bL29qJ8gMdyP9fXA3sZK3gKrW-GYWW9C-I7SnCU1Q/image;s=1080x720",
     "dostepny": "true",
-    "najmniejszaRata": "1399,64",
+    "najmniejszaRata": "1399,83",
      "skrzyniaBiegow": "Automatyczna"
   },
   {
     "id": "6",
-    "marka": "Ford",
-    "model": "fiesta ",
+    "marka": "Volvo",
+    "model": "XC 90 ",
     "rokProdukcji": "2019",
     "przebieg": "1",
     "paliwo": "Beznyna",
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3Q-cuFJTFYT-ZXVHebyQaRbyM3KaRYTN5A&usqp=CAU",
+    "url": "https://motohigh.pl/wp-content/uploads/2020/05/Volvo-XC90-hybryda.jpg",
     "dostepny": "true",
-    "najmniejszaRata": "1199,64",
+    "najmniejszaRata": "1500,20",
      "skrzyniaBiegow": "Automatyczna"
   },
   {
     "id": "7",
-    "marka": "Ford",
-    "model": "fiesta ",
+    "marka": "BMW",
+    "model": "seria 5 ",
     "rokProdukcji": "2019",
-    "przebieg": "1",
+    "przebieg": "4 tyś",
     "paliwo": "Beznyna",
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3Q-cuFJTFYT-ZXVHebyQaRbyM3KaRYTN5A&usqp=CAU",
+    "url": "https://www.autocentrum.pl/ac-file/car-version/5f884f517aa3596fec1473c2/bmw-seria-5-g30-g31.jpg",
     "dostepny": "true",
     "najmniejszaRata": "1199,64",
      "skrzyniaBiegow": "Automatyczna"
   },
   {
     "id": "8",
-    "marka": "Ford",
-    "model": "fiesta ",
-    "rokProdukcji": "2019",
-    "przebieg": "1",
+    "marka": "Audi",
+    "model": "A8",
+    "rokProdukcji": "2018",
+    "przebieg": "15 tyś",
     "paliwo": "Beznyna",
     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3Q-cuFJTFYT-ZXVHebyQaRbyM3KaRYTN5A&usqp=CAU",
     "dostepny": "true",
-    "najmniejszaRata": "1199,64",
+    "najmniejszaRata": "1800,00",
      "skrzyniaBiegow": "Automatyczna"
   },
   {
     "id": "9",
-    "marka": "Ford",
-    "model": "fiesta ",
+    "marka": "Toyota",
+    "model": "C-HR ",
     "rokProdukcji": "2019",
     "przebieg": "1",
     "paliwo": "Beznyna",
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3Q-cuFJTFYT-ZXVHebyQaRbyM3KaRYTN5A&usqp=CAU",
+    "url": "https://leasingnet.pl/userdata/public/gfx/250/CHR-09small.jpg",
     "dostepny": "true",
-    "najmniejszaRata": "1199,64",
+    "najmniejszaRata": "1300,00",
      "skrzyniaBiegow": "Automatyczna"
   }
 ]
