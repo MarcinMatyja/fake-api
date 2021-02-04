@@ -107,6 +107,18 @@
     "dostepny": "true",
     "najmniejszaRata": "1300,00",
      "skrzyniaBiegow": "Automatyczna"
-  }
+  },
+  {
+   "id": "10",
+   "marka": "Toyota",
+   "model": "C-HR ",
+   "rokProdukcji": "2019",
+   "przebieg": "1",
+   "paliwo": "Beznyna",
+   "url": "https://leasingnet.pl/userdata/public/gfx/250/CHR-09small.jpg",
+   "dostepny": "true",
+   "najmniejszaRata": "1300,00",
+    "skrzyniaBiegow": "Automatyczna"
+ }
 ]
 }
